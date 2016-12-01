@@ -1,2 +1,2 @@
 # hello-world
-John's first repository
+This is totally new to me and it seems a bit complicated.
